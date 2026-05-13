@@ -50,6 +50,8 @@ ademas de ser el entorno de desarrollo estándar visto en clase y el que ofrece 
 Técnica: Gracias al uso de Entity Framework Core, gano el control total de la base de datos mediante Migrations, lo que facilita la evolución del esquema de datos (juegos y assets) de forma segura y versionada.
 Proceso/Equipo: El uso de estándares de .NET (como las interfaces y los DTOs) permite que el código sea altamente legible y profesional, 
 facilitando la integración de otros desarrolladores que conozcan las convenciones de C#.
+
+
 **⚠️ Lo que sacrifico o asumo:**
 
 Menciona al menos:
