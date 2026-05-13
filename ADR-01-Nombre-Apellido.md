@@ -60,6 +60,5 @@ el sistema podría requerir una refactorización mayor en la capa de infraestruc
 
 ## Diagrama
 
-Un boceto de cómo se estructura tu sistema (draw.io, Mermaid o a mano escaneado)
+<img width="535" height="568" alt="UML de mi proyecto" src="https://github.com/user-attachments/assets/8db15ae9-ea1c-4412-b054-038df93bb49f" />
 
-![Diagrama del sistema]( ./ruta/diagrama-nivel-1.png )
